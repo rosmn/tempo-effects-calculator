@@ -6,4 +6,5 @@ Simple vanilla app used in order to calculate tempo based effects
 * Select the release
 * A table will apear with values "predelay - selected release" as release
 * You can click the values from the table and they wil be copied to clipboard automatically
+* The "negative predelay" button changes the current predelay to its negative value
 * Enjoy !
