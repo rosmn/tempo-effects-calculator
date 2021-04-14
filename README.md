@@ -8,3 +8,5 @@ Simple vanilla app used in order to calculate tempo based effects
 * You can click the values from the table and they wil be copied to clipboard automatically
 * The "negative predelay" button changes the current predelay to its negative value
 * Enjoy !
+
+You can see the app running at: https://tempo-calc-robert.herokuapp.com/
